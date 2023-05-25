@@ -20,7 +20,7 @@ Projeto desenvolvido na Maratona Explorer 3.0, um evento gratuito para descompli
   <img src=".github/preview.png" width="100%">
 </p>
 
-<h2 align="center"><a href="https://isadoraguiar.github.io/maratona-explorer/rocket-coffee" target="_blank">Projeto ao vivo</a></h2>
+<h2 align="center"><a href="https://isadoraguiar.github.io/maratona-explorer/menu-coffee" target="_blank">Projeto ao vivo</a></h2>
 
 ## 🚀 Tecnologias
 
